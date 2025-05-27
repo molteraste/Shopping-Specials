@@ -1,0 +1,7 @@
+[
+  {"productName": "Cow dodo", "description": "That which comes from the cow's bottom!", "wasPrice": 12.50, "nowPrice": 9.77, "image": "cloud.hail.circle"},
+  {"productName": "Gardener", "description": "A real human to come and do your gardening (hourly)!", "wasPrice": 53.00, "nowPrice": 42.50, "image": "figure.walk.motion"},
+  {"productName": "Simple Reticulation System", "description": "A 5 part reticulation system.", "wasPrice": 105.00, "nowPrice": 73.82, "image": "water.waves"},
+  {"productName": "Gardening 101 course", "description": "Learn the basics of gardening!", "wasPrice": 65.00, "nowPrice": 27.90, "image": "list.bullet.clipboard.fill"},
+  {"productName": "Water Fountain", "description": "Something completely useless, but looks nice.", "wasPrice": 22.00, "nowPrice": 16.00, "image": "apple.meditate"}
+]
